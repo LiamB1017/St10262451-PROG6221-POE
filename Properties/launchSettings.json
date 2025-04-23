@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ST10262451 PROG6221 POE": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
