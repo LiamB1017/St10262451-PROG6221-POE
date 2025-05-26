@@ -12,7 +12,7 @@ This is a C# console application that simulates a chatbot for cybersecurity awar
 - Coloured and formatted console interface
 
 ## How to Run
-- Clone the repo
-- Run in Visual Studio or use:
-```bash
-dotnet run
+- Go to Program.cs and copy and paste the code from the repository into Visual Studio and run the console app.
+  
+- or From the submitted Zip file open ST10262451 PROG6221 POE file and then navigate to ST10262451 PROG6221 POE.sln ehich should open the project in visual studio and allow you to run the console app.
+
