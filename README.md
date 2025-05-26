@@ -18,3 +18,5 @@ This is a C# console application that simulates a chatbot for cybersecurity awar
   
 - or From the submitted Zip file open ST10262451 PROG6221 POE file and then navigate to ST10262451 PROG6221 POE.sln which should open the project in visual studio and allow you to run the console app.
 
+- or you can open the submitted zip file, then open ST10262451 PROG6221 POE Part2, then naigate to bin-Debug-net9.0-St10262451 PROG6221 POE (143kb application) Which will allow you to run the console app. You may need to extract all so you can run the console application.
+
