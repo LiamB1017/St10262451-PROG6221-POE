@@ -67,6 +67,20 @@ class MyApp
 
     public static void BasicQuestions()
     {
+        {
+            Console.Write("\nAsk me something (e.g., 'How are you?', 'How is your day going?', 'What can I ask you about?'): ");
+            string question = Console.ReadLine().ToLower();
+
+            if (question.Contains("how are you"))
+                Console.WriteLine("I'm just a program, but I'm doing great! Thanks for asking.");
+            else if (question.Contains("how is your day"))
+                Console.WriteLine("My day is going well, thank you! How about yours?");
+            else if (question.Contains("what can i ask you about"))
+                Console.WriteLine("I can tell you about multiple things regarding cybersecurity, such as password safety, phishing and safe browsing!");
+            else
+                Console.WriteLine("I'm not sure how to answer that, but I'm happy to chat!");
+        }
+
         Console.Write("\nHow are you feeling today? ");
         string mood = Console.ReadLine();
         userMemory["mood"] = mood;
