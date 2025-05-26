@@ -18,7 +18,8 @@ class MyApp
         BasicQuestions();
         RegisterUser();
         LoginUser();
-        Questions(); 
+        Questions();
+        StartChatLoop();
     }
 
     public static void PlayWelcomeSound()
@@ -222,6 +223,14 @@ class MyApp
         else
         {
             Console.WriteLine("I'm still learning. Try asking something about passwords, scams, privacy or phishing.");
+        }
+    }
+        public static void StartChatLoop()
+    {
+        while (true)
+        {
+            LoginUser();     // Log in again
+            Questions();     // Ask more questions after logging in
         }
     }
 }
