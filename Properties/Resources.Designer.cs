@@ -59,15 +59,5 @@ namespace St10262451_PROG6221_POE.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] clip_Charlotte_2025_04_23 {
-            get {
-                object obj = ResourceManager.GetObject("clip-Charlotte-2025_04_23", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
     }
 }
