@@ -7,12 +7,14 @@ This is a C# console application that simulates a chatbot for cybersecurity awar
 - Voice greeting (WAV format)
 - ASCII art display
 - Personalized user input
-- Basic chatbot Q&A
+- Basic Q&A Chat: Ask the chatbot things like "How are you?" or "What can I ask you about?" etc.
 - Input validation
 - Coloured and formatted console interface
+- Registration & Login: Secure user flow with password protection.
+- Memory & Recall: Remembers things like your mood.
 
 ## How to Run
 - Go to Program.cs and copy and paste the code from the repository into Visual Studio and run the console app.
   
-- or From the submitted Zip file open ST10262451 PROG6221 POE file and then navigate to ST10262451 PROG6221 POE.sln ehich should open the project in visual studio and allow you to run the console app.
+- or From the submitted Zip file open ST10262451 PROG6221 POE file and then navigate to ST10262451 PROG6221 POE.sln which should open the project in visual studio and allow you to run the console app.
 
