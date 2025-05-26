@@ -17,8 +17,8 @@ class MyApp
         UserDetails();
         BasicQuestions();
         RegisterUser();
-        Questions();
         LoginUser();
+        Questions(); 
     }
 
     public static void PlayWelcomeSound()
